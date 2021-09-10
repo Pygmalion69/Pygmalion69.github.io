@@ -30,7 +30,7 @@ twitter_username: SergeHelfrich
 github_username:  Pygmalion69
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
